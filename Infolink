@@ -1,0 +1,5 @@
+http://zenit.senecac.on.ca/wiki/index.php/Dhrystone_howto
+http://fossies.org/linux/privat/old/dhrystone-2.1.tar.gz/
+
+Memcopy
+https://github.com/ARM-software/workload-automation/blob/a747ec7e4c2ea8a25bfc675f80042eb6600c7050/wlauto/workloads/memcpy/src/build.sh
